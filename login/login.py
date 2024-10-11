@@ -12,8 +12,6 @@ root_tk.geometry("400x400")
 root_tk.title("Login")
 
 c_negro = '#010101'
-c_morado = '#7f5af0'
-c_verde = '#2cb67d'
 
 patron_mail = r"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"
 patron_texto = r"^[a-zA-ZáéíóúÁÉÍÓÚñÑ]+$"
