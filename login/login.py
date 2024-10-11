@@ -1,9 +1,11 @@
 import tkinter
+import customtkinter
 from PIL import Image
 from customtkinter import *
 import base_de_logeo as bd
 from tkinter import messagebox
 import re 
+
 
 root_tk = tkinter.Tk()
 root_tk.geometry("400x400")
