@@ -1,5 +1,4 @@
 import tkinter
-import customtkinter
 from PIL import Image
 from customtkinter import *
 import base_de_logeo as bd
